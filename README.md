@@ -4,7 +4,7 @@ cout << "Kuran = TimerInterupt" << endl;
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{codi668}/count.svg" alt="codi668 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{gamslet111}/count.svg" alt="codi668 :: Visitor's Count" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamslet111&langs_count=10&theme=tokyonight&layout=compact" alt="codi668 :: Top Langs" /></p>
 

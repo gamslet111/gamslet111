@@ -6,7 +6,7 @@ cout << "Kuran = TimerInterupt" << endl;
 
 <p align="center"><img src="https://profile-counter.glitch.me/{codi668}/count.svg" alt="codi668 :: Visitor's Count" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codi668&langs_count=10&theme=tokyonight&layout=compact" alt="codi668 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamslet111&langs_count=10&theme=tokyonight&layout=compact" alt="codi668 :: Top Langs" /></p>
 
 <h3 align="center">Profile stats</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=codi668&show_icons=true&theme=synthwave" alt="codi668 :: Profile Stats" /></p>

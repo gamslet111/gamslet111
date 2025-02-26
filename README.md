@@ -1,18 +1,19 @@
-```c++
-cout << "Kuran = TimerInterupt" << endl;
-```
+<h1 align="center">Hi 👋, I'm Kilian</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamslet111&label=Profile%20views&color=0e75b6&style=flat" alt="gamslet111" /> </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{gamslet111}/count.svg" alt="codi668 :: Visitor's Count" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamslet111" alt="gamslet111" /></a> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamslet111&langs_count=10&theme=tokyonight&layout=compact" alt="codi668 :: Top Langs" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<h3 align="center">Profile stats</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=codi668&show_icons=true&theme=synthwave" alt="codi668 :: Profile Stats" /></p>
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!---
-codi668/codi668 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamslet111&show_icons=true&locale=en&layout=compact" alt="gamslet111" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamslet111&show_icons=true&locale=en" alt="gamslet111" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamslet111&" alt="gamslet111" /></p>

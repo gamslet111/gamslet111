@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamslet111" alt="gamslet111" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [A digital Emergency helper](https://github.com/gamslet111/Feuerwehr_Digitaler_Einsatzleiter)
 
 - 🌱 I’m currently learning **Mandarin**
@@ -18,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/k_1234pf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_1234pf" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kilian pfeifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kilian pfeifer" height="30" width="40" /></a>
 <a href="https://discord.gg/hbHvav2J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hbHvav2J" height="30" width="40" /></a>
 </p>
 

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [A digital Emergency helper](https://github.com/gamslet111/Feuerwehr_Digitaler_Einsatzleiter)
 
-- 🌱 I’m currently learning **Mandarin**
+- 🌱 I’m currently learning **Spanish**
 
 - 📫 How to reach me **kilian.pfeife@htlstp.at**
 

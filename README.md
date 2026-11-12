@@ -41,7 +41,7 @@ Student student = {
 ```
 
 - 🔭 Currently working on **[Smart Drink Dispenser](https://github.com/gamslet111/Getraenkespender)** – an automated beverage system
-- 🌱 Currently learning **Spanish** 🇪🇸
+- 🌱 Currently learning **Mandarin**
 - 🏫 Student at **HTL St. Pölten**, Austria
 - ⚡ Fun fact: I'm 19 and already building hardware projects!
 - 📫 Reach me at **kilian.benedikt.pfeife@gmail.com**
